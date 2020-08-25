@@ -3,7 +3,7 @@ This is a command-line Scrabble game written in C++ to explore object oriented
 programming.
 
 ## NOTICE for old users 
-* Users of `v1.0` **MUST** re-install the application as the update to `v1.5` or higher 
+* Users of `v1.0` **MUST** re-install the application as the update to `v1.1.5` or higher 
 * All future updates will conform to these changes
 
 ## Build requirements
