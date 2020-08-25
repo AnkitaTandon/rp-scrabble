@@ -6,5 +6,5 @@ The rules of the game are simple-
 * Make sure that the word you place connects with at least one tile that is already on the board.
 * Tiles can be placed left to right or top to bottom, one after the other.
 
-You can look up for the detailed rules on the [internet](https://www.youtube.com/watch?v=swlg3vQXboE)
+You can look up for the detailed rules over the [internet](https://www.youtube.com/watch?v=swlg3vQXboE)
 
