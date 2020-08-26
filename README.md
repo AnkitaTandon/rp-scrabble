@@ -43,7 +43,7 @@ programming.
 * Now, simply running `rp-scrabble` should launch the game.
 * If it doesn't launch, check the output of `$ echo $PATH`. If it does not contain `your-home-dir/.local/bin`, add it to your `PATH` like this-
     ```sh
-    $ echo "export PATH=$PATH:$HOME/.local/bin" >> $HOME/.bashrc
+    $ echo 'export PATH=$PATH:$HOME/.local/bin' >> $HOME/.bashrc
     $ source $HOME/.bashrc
     ```
 
